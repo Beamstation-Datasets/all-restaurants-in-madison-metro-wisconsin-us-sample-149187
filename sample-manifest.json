@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5607e1ee-8837-4d7e-9fcf-23bdb20be8f2",
+  "id_short": 149187,
+  "published_at": "2026-04-10T19:16:14Z",
+  "repo_name": "all-restaurants-in-madison-metro-wisconsin-us-sample-149187",
+  "sample_asset_name": "beamstation_149187_restaurants-us-madisonwi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/149187/beamstation_149187_restaurants-us-madisonwi_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "7e4c3ab2fc5567fb58f768447fbab3b3af150ccdd113b56f818655637e00ed55",
+  "sample_size_bytes": 115772,
+  "total_records": 956
+}
